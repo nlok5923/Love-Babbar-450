@@ -4,7 +4,7 @@
 ```  
 Fork this repo
 Solve any problem of love babbar 450 question set
-Name filename as problem statement name + append question number as it's initials. 
+Name filename as problem statement name(in concise).
 make a pr 
 ```
 #### After approval see your solution hosted on: [lb-450](https://lb-450.netlify.app/)
@@ -12,9 +12,9 @@ make a pr
 #### Download Question set from here : [Question-set](https://drive.google.com/file/d/1Q_4jCw9gu3GXbalBNLAkpXooiZVC7aYq/view?usp=sharing)
 
 ### Note:
-##### if you are working on any question just create a issue listing the question on which you are working and while submitting the pr link it with the pr.
+##### if you are working on any question just create a issue listing the question on which you are working and while submitting the pr link it with the pr also add :white_check_mark: in front of the question which your pr resolved.
 
-|type| link| Status|
+|Type| link| Status|
 | ------------------- | ------------------------------- | --- |
 | Array               | [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)                                                                                                                                                                                                                  | :white_check_mark: |
 | Array               | Find the maximum and minimum element in an array                                                                                                                                                                                                                                                                   | :white_check_mark: |
