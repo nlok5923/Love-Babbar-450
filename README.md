@@ -13,6 +13,7 @@ make a pr
 
 ### Note:
 ##### if you are working on any question just create a issue listing the question on which you are working and while submitting the pr link it with the pr also add :o: in front of the question which your pr resolved.
+#### please work on atmost two problem statement in a single issue 
 
 |Type| link| Status|
 | ------------------- | ------------------------------- | --- |
