@@ -11,10 +11,6 @@ make a pr
 
 #### Download Question set from here : [Question-set](https://drive.google.com/file/d/1Q_4jCw9gu3GXbalBNLAkpXooiZVC7aYq/view?usp=sharing)
 
-### Note:
-##### if you are working on any question just create a issue listing the question on which you are working and while submitting the pr link it with the pr also add :o: in front of the question which your pr resolved.
-#### please work on atmost two problem statement in a single issue 
-
 |Type| link| Status|
 | ------------------- | ------------------------------- | --- |
 | Array               | [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)                                                                                                                                                                                                                  | :white_check_mark: |
